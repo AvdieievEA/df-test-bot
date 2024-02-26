@@ -1,0 +1,4 @@
+.env
+src/tests/test_data.py
+.aws-sam
+src/.pytest_cache
